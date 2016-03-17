@@ -1,0 +1,53 @@
+{
+  "name": "flash-cookies",
+  "version": "2.2.2",
+  "description": "JavaScript library and .swf for cross-domain flash cookies. ~4kb total when minified and gzipped.",
+  "main": "dist/swfstore.min.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nfriedly/Javascript-Flash-Cookies.git"
+  },
+  "author": "Nathan Friedly - http://nfriedly.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfriedly/Javascript-Flash-Cookies/issues"
+  },
+  "homepage": "https://github.com/nfriedly/Javascript-Flash-Cookies",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-jsbeautifier": "^0.2.10",
+    "grunt-newer": "^1.1.1",
+    "grunt-saucelabs": "^8.6.1",
+    "grunt-swf": "^1.0.2",
+    "lodash": "^3.10.1"
+  },
+  "keywords": [
+    "javascript",
+    "flash",
+    "cookie",
+    "cookies",
+    "cross-domain",
+    "flashcookies",
+    "swf",
+    "browserify"
+  ],
+  "ignore": [
+    "bower_components",
+    "flex-sdk",
+    "node_modules",
+    "src",
+    "tests",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
