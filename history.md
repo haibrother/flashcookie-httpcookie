@@ -1,1 +1,1 @@
-win7µÄflashcookieÒ»°ã´æ´¢ÔÚ C:\Users\laobi\AppData\Roaming\Macromedia\Flash Player
+windows7çš„flashcookie ä¸€èˆ¬å­˜å‚¨åœ¨ C:\Users\laobi\AppData\Roaming\Macromedia\Flash Player
